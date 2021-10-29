@@ -1,1 +1,1 @@
-window.__ENV = {"REACT_APP_VOTE_URL":"https://tvote.sunder.finance/","REACT_APP_CHAIN_Id":"1"};
+window.__ENV = {"REACT_APP_VOTE_URL":"https://vote.sunder.finance/","REACT_APP_CHAIN_Id":"1"};
